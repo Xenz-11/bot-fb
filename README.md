@@ -15,5 +15,6 @@ pkg install git
 ```python
 git clone https://github.com/Xenz-11/bot-fb
 cd bot-fb
+git pull
 python bot.py
 ```
