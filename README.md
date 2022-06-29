@@ -9,7 +9,7 @@
 
 > install pkg
 ```python
-pkg update
+<b> pkg update
 pkg upgrade
 pkg install python
 pip install requests
