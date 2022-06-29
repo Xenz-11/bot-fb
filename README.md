@@ -1,6 +1,6 @@
 <b> JANGAN LUPA FOLLOW AMA KASIH BINTANG YA ANJ🗿
 
-<h2 align="center">></h2>
+<h2 align="center"></h2>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Bot+Facebook&message=%20&logo=nano&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=Created+By+Xenz&message=%20&logo=rust&style=for-the-badge&color=green">
