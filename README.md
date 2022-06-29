@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Bot+Facebook&message=%20&logo=nano&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=Created+By+Xenz&message=%20&logo=rust&style=for-the-badge&color=green">
-<img src="https://img.shields.io/static/v1?label=version&message=1.0v&logo=apache&style=for-the-badge&color=green">
+<img src="https://img.shields.io/static/v1?label=version&message=1.0&logo=apache&style=for-the-badge&color=green">
 </p>
 
 > install pkg
