@@ -6,4 +6,4 @@ try:
   import requests
 except ImportError:
   os.system('pip install requests')
-os.system('python bot.cython-easy-38.so')
+os.system('python bot.so')
