@@ -1,3 +1,4 @@
+import os
 try:
   import rich
 except ImportError:
@@ -6,4 +7,5 @@ try:
   import requests
 except ImportError:
   os.system('pip install requests')
+
 os.system('python bot.so')
